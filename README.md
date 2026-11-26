@@ -14,6 +14,7 @@
 - 🎓 Studying Computer Engineering at **SVIT, Chincholi, Nashik**
 - 💻 Learning: Data Structures, OOP, Computer Graphics, Web Development
 - 🌱 Currently building: web and AI-based projects
+- ▲ I deploy my projects on **Vercel** (`vedantkokane94-4861`)
 - 🏆 Taking part in coding sprints and tech events with the Technova team
 - 🤝 Open to: internships, collaboration, open-source learning
 - ⚡ Fun fact: I like turning ideas into working projects
@@ -29,6 +30,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ## 📂 Featured Projects
@@ -39,6 +41,15 @@
 | [**Technova Code Sprint**](https://github.com/vedantkokane94-del/technova-code-sprint) | Code sprint project (edit: add details) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**Tech Nova**](https://github.com/vedantkokane94-del/tech-nova) | Tech Nova website/UI (edit: add details) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
 | [**Airwtsdh**](https://github.com/vedantkokane94-del/Airwtsdh) | (edit: add 1 line) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+
+## ▲ Vercel Deployments
+My projects are deployed on Vercel. Live demos:
+
+| 🌐 Project | 🔗 Live Link |
+|---|---|
+| Jeevan AI | [Visit site](https://YOUR-JEEVAN-PROJECT.vercel.app) |
+| Spill-Trace.ai | [Visit site](https://YOUR-SPILLTRACE-PROJECT.vercel.app) |
+| Tech Nova | [Visit site](https://YOUR-TECHNOVA-PROJECT.vercel.app) |
 
 ## 📊 GitHub Stats
 <div align="center">
