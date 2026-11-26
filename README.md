@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Vedant%20Kokane&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vedant%20Kokane&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=16" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vedant+%F0%9F%91%8B;S.E.+Computer+Engineering+Student;Web+%26+AI+Project+Builder;Always+learning,+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vedant+%F0%9F%91%8B;S.E.+Computer+Engineering+Student;Web+%26+AI+Project+Builder;Always+learning,+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=vedantkokane94-del&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/vedantkokane94-del?style=for-the-badge&logo=github&color=302b63" />
-<img src="https://img.shields.io/github/stars/vedantkokane94-del?style=for-the-badge&logo=github&color=302b63" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-302b63?style=for-the-badge" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 👨‍💻 About Me
 
@@ -31,7 +31,7 @@
 - 🤝 **Open to:** Internships • Collaboration • Open-source learning
 - ⚡ **Fun fact:** I like turning ideas into working projects
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +41,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 📂 Featured Projects
 
@@ -53,15 +53,7 @@
 | [**Tech Nova**](https://github.com/vedantkokane94-del/tech-nova) | Responsive website for the Technova team, designed and styled with CSS. | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
 | [**Airwtsdh**](https://github.com/vedantkokane94-del/Airwtsdh) | JavaScript web project with an interactive front end. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
-## ▲ Live on Vercel
-
-| 🌐 Project | 🔗 Live Demo |
-|---|---|
-| Jeevan AI | [![Live](https://img.shields.io/badge/Visit-Site-000000?style=flat-square&logo=vercel)](https://YOUR-JEEVAN-PROJECT.vercel.app) |
-| Spill-Trace.ai | [![Live](https://img.shields.io/badge/Visit-Site-000000?style=flat-square&logo=vercel)](https://YOUR-SPILLTRACE-PROJECT.vercel.app) |
-| Tech Nova | [![Live](https://img.shields.io/badge/Visit-Site-000000?style=flat-square&logo=vercel)](https://YOUR-TECHNOVA-PROJECT.vercel.app) |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 📊 GitHub Stats
 
@@ -76,19 +68,13 @@
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vedantkokane94-del&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
+---
 
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantkokane94-del&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🎯 Goals
 
@@ -97,11 +83,7 @@
 - [ ] Land an internship
 - [ ] Build a full-stack AI project
 
-## 💬 Quote of the Day
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+---
 
 ## 📫 Let's Connect
 
@@ -109,7 +91,7 @@
 
 <a href="https://www.linkedin.com/in/vedant-kokane-264699392"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/mr_vedant_kokane_patil_96k"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://vercel.com/vedantkokane94-4861s-projects"><img src="https://img.shields.io/badge/Vercel-vedantkokane94--4861-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://vercel.com/vedantkokane94-4861s-projects"><img src="https://img.shields.io/badge/Vercel-Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:vedantkokane94@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
