@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/vedantkokane94-del/vedantkokane94-del/main/profile.jpg&w=180&h=180&fit=cover&mask=circle" width="160" height="160" alt="Vedant Kokane" />
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/vedantkokane94-del/vedantkokane94-del/main/profile.jpg.jpg&cx=315&cy=0&cw=440&ch=440&w=180&h=180&mask=circle" width="160" height="160" alt="Vedant Kokane" />
 
 <br/>
 
