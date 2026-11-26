@@ -2,13 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vedant%20Kokane&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=16" width="100%" />
 
+<br/>
+
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/vedantkokane94-del/vedantkokane94-del/main/profile.jpg&w=180&h=180&fit=cover&mask=circle" width="160" height="160" alt="Vedant Kokane" />
+
+<br/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vedant+%F0%9F%91%8B;S.E.+Computer+Engineering+Student;Web+%26+AI+Project+Builder;Always+learning,+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=vedantkokane94-del&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-302b63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Learning_and_Building-302b63?style=for-the-badge" />
 
 <br/><br/>
 
